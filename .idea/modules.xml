@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AdverStat/AdverStat.iml" filepath="$PROJECT_DIR$/AdverStat/AdverStat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AreaStat/AreaStat.iml" filepath="$PROJECT_DIR$/AreaStat/AreaStat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commerce.iml" filepath="$PROJECT_DIR$/commerce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commons/commons.iml" filepath="$PROJECT_DIR$/commons/commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mock/mock.iml" filepath="$PROJECT_DIR$/mock/mock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pageConvertStst/pageConvertStst.iml" filepath="$PROJECT_DIR$/pageConvertStst/pageConvertStst.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sesssion/sesssion.iml" filepath="$PROJECT_DIR$/sesssion/sesssion.iml" />
+    </modules>
+  </component>
+</project>

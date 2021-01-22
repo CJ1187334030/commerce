@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="AdverStat" />
+        <module name="AreaStat" />
+        <module name="commons" />
+        <module name="mock" />
+        <module name="pageConvertStst" />
+        <module name="session" />
+        <module name="sesssion" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="AdverStat" target="1.8" />
+      <module name="analyse" target="1.8" />
+      <module name="AreaStat" target="1.8" />
+      <module name="commerce" target="1.8" />
+      <module name="commons" target="1.8" />
+      <module name="mock" target="1.8" />
+      <module name="pageConvertStst" target="1.8" />
+      <module name="session" target="1.8" />
+      <module name="sesssion" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
